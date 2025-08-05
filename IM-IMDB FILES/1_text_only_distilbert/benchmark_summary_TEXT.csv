@@ -1,0 +1,2 @@
+Model,F1-score,Accuracy,Inference Time (s/sample),Model Size (MB),Parameters (Millions)
+Text Only,0.5217,0.5217,0.4975,253.26,66381336

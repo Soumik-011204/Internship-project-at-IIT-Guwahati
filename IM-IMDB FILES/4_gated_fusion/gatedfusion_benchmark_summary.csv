@@ -1,0 +1,5 @@
+Metric,Value
+Total Parameters,"2,526,231"
+Trainable Parameters,"2,526,231"
+Model Size (MB),9.64
+Avg Inference Time (s/sample),0.000307

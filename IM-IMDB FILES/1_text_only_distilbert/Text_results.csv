@@ -1,0 +1,30 @@
+Metric,Score
+Micro F1-score,0.5217391304347826
+Macro F1-score,0.10622988122988124
+Precision,0.4748201438848921
+Recall,0.5789473684210527
+Hamming Loss,0.10289115646258504
+F1-action,0.0
+F1-adventure,0.0
+F1-animation,0.0
+F1-biography,0.0
+F1-comedy,0.5818181818181818
+F1-crime,0.0
+F1-documentary,0.0
+F1-drama,0.7878787878787878
+F1-family,0.0
+F1-fantasy,0.15384615384615385
+F1-film-noir,0.0
+F1-history,0.0
+F1-horror,0.0
+F1-music,0.0
+F1-musical,0.0
+F1-mystery,0.0
+F1-news,0.0
+F1-romance,0.45454545454545453
+F1-sci-fi,0.0
+F1-short,0.5714285714285714
+F1-sport,0.0
+F1-thriller,0.0
+F1-war,0.0
+F1-western,0.0

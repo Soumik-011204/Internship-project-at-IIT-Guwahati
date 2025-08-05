@@ -1,0 +1,2 @@
+Model Type,Micro F1,Macro F1,Inference Time (Batch=1),Inference Time (Batch=16),Model Size (MB),Parameters (Millions)
+EarlyFusion,0.468,0.309,0.0051,0.0053,8.64,2.263
